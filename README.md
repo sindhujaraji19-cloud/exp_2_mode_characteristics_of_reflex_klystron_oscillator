@@ -69,7 +69,7 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Observation
 
-*(Include your own table relevant to the experiment.)*
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c8ac1131-7cf1-410b-92f6-9b29b470c496" />
 
 ## Graph
 
@@ -90,4 +90,4 @@ As the bunches pass back through the resonator grids they interact with the gap 
 
 ## Conclusion
 
-*(Write your own.)*
+*(The mode characteristics of a reflex klystron and hence determine .)*
